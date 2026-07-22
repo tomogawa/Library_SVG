@@ -1,0 +1,1057 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="800"
+   height="1290"
+   viewBox="0 0 800 1290"
+   version="1.1"
+   id="svg146"
+   sodipodi:docname="AL1100 - Final.svg"
+   inkscape:version="1.3.2 (091e20e, 2023-11-25, custom)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs146" />
+  <sodipodi:namedview
+     id="namedview146"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:zoom="2.6511628"
+     inkscape:cx="396.05263"
+     inkscape:cy="527.88158"
+     inkscape:window-width="1920"
+     inkscape:window-height="1111"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg146" />
+  <!-- ============ CORPS DU MODULE ============ -->
+  <g
+     transform="translate(0,-2.13)"
+     id="g2">
+    <rect
+       x="232"
+       y="245"
+       width="322"
+       height="810"
+       rx="46"
+       ry="46"
+       fill="#f0871f"
+       id="rect1" />
+    <rect
+       x="232"
+       y="245"
+       width="322"
+       height="810"
+       rx="46"
+       ry="46"
+       fill="none"
+       stroke="#b95a0c"
+       stroke-width="2"
+       id="rect2" />
+  </g>
+  <!-- ============ EMBOUT FIXATION HAUT ============ -->
+  <g
+     transform="translate(0,-8)"
+     id="g4">
+    <path
+       d="m 336,250 h 104 a 6,6 0 0 1 6,6 c 0,28 -24,52 -58,52 -34,0 -58,-24 -58,-52 a 6,6 0 0 1 6,-6 z"
+       fill="#3a3a3c"
+       id="path2" />
+    <circle
+       cx="388"
+       cy="283"
+       r="21"
+       fill="#8a8a8a"
+       id="circle2" />
+    <circle
+       cx="388"
+       cy="283"
+       r="21"
+       fill="none"
+       stroke="#2a2a2a"
+       stroke-width="2"
+       id="circle3" />
+    <circle
+       cx="388"
+       cy="283"
+       r="10"
+       fill="#3a3a3a"
+       id="circle4" />
+  </g>
+  <!-- ============ MARQUAGES HAUT ============ -->
+  <!-- Logo ifm (encadré) -->
+  <g
+     transform="translate(460,284)"
+     id="g5">
+    <rect
+       x="0"
+       y="-26"
+       width="66"
+       height="42"
+       rx="4"
+       fill="none"
+       stroke="#7a3c06"
+       stroke-width="2"
+       id="rect4" />
+    <text
+       x="8"
+       y="8"
+       font-family="Arial, Helvetica, sans-serif"
+       font-weight="800"
+       font-size="30px"
+       fill="#7a3c06"
+       letter-spacing="-1"
+       id="text4">ifm</text>
+  </g>
+  <!-- Référence AL1100 -->
+  <text
+     x="440"
+     y="331"
+     font-family="Arial, Helvetica, sans-serif"
+     font-weight="800"
+     font-size="30px"
+     fill="#7a3c06"
+     id="text5">AL1100</text>
+  <!-- IO-Link -->
+  <g
+     transform="translate(258,310)"
+     id="g7">
+    <text
+       x="-2"
+       y="-34"
+       font-family="Arial, Helvetica, sans-serif"
+       font-weight="700"
+       font-size="18px"
+       fill="#7a3c06"
+       id="text7">IO-Link</text>
+  </g>
+  <!-- Profinet (au-dessus de X21 / X22) -->
+  <!-- ============ LED de statut ============ -->
+  <g
+     id="g11">
+    <circle
+       cx="356"
+       cy="360"
+       r="9"
+       fill="#c8c8c8"
+       stroke="#7a7a7a"
+       stroke-width="1"
+       id="circle9" />
+    <circle
+       cx="390"
+       cy="360"
+       r="9"
+       fill="#c8c8c8"
+       stroke="#7a7a7a"
+       stroke-width="1"
+       id="circle10" />
+    <circle
+       cx="424"
+       cy="360"
+       r="9"
+       fill="#c8c8c8"
+       stroke="#7a7a7a"
+       stroke-width="1"
+       id="circle11" />
+  </g>
+  <!-- Libellés LED -->
+  <g
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="12px"
+     fill="#7a3c06"
+     text-anchor="middle"
+     id="g15">
+    <text
+       x="356"
+       y="385"
+       id="text11">RDY</text>
+    <text
+       x="390"
+       y="385"
+       id="text12">BF</text>
+    <text
+       x="424"
+       y="385"
+       id="text13">BF</text>
+    <text
+       x="390"
+       y="430"
+       id="text14">LNK</text>
+    <text
+       x="390"
+       y="468"
+       id="text15">ACT</text>
+  </g>
+  <!-- ============ MARQUES ") (" ============ -->
+  <g
+     fill="none"
+     stroke="#2b2b2b"
+     stroke-width="7"
+     stroke-linecap="round"
+     id="g29">
+    <g
+       transform="translate(357.95,445)"
+       id="g16">
+      <path
+         d="m 0,-30 q 5.6,12 6.72,24"
+         id="path15" />
+      <path
+         d="M 6.72,6 Q 5.6,18 0,30"
+         id="path16" />
+    </g>
+    <g
+       transform="translate(428.05,445) scale(-1,1)"
+       id="g18">
+      <path
+         d="m 0,-30 q 5.6,12 6.72,24"
+         id="path17" />
+      <path
+         d="M 6.72,6 Q 5.6,18 0,30"
+         id="path18" />
+    </g>
+    <g
+       transform="translate(357.95,616)"
+       id="g20">
+      <path
+         d="m 0,-30 q 5.6,12 6.72,24"
+         id="path19" />
+      <path
+         d="M 6.72,6 Q 5.6,18 0,30"
+         id="path20" />
+    </g>
+    <g
+       transform="translate(357.95,765)"
+       id="g22">
+      <path
+         d="m 0,-30 q 5.6,12 6.72,24"
+         id="path21" />
+      <path
+         d="M 6.72,6 Q 5.6,18 0,30"
+         id="path22" />
+    </g>
+    <g
+       transform="translate(428.05,765) scale(-1,1)"
+       id="g24">
+      <path
+         d="m 0,-30 q 5.6,12 6.72,24"
+         id="path23" />
+      <path
+         d="M 6.72,6 Q 5.6,18 0,30"
+         id="path24" />
+    </g>
+    <g
+       transform="translate(357.95,915)"
+       id="g26">
+      <path
+         d="m 0,-30 q 5.6,12 6.72,24"
+         id="path25" />
+      <path
+         d="M 6.72,6 Q 5.6,18 0,30"
+         id="path26" />
+    </g>
+    <g
+       transform="translate(428.05,915) scale(-1,1)"
+       id="g28">
+      <path
+         d="m 0,-30 q 5.6,12 6.72,24"
+         id="path27" />
+      <path
+         d="M 6.72,6 Q 5.6,18 0,30"
+         id="path28" />
+    </g>
+  </g>
+  <!-- ============ RANGÉE 1 (Y=445) : NOIRS (Profinet) ============ -->
+  <g
+     id="row1">
+    <g
+       transform="translate(302,445) scale(0.377)"
+       id="g44">
+      <circle
+         r="122"
+         fill="#d0d0d0"
+         stroke="#5a5a5a"
+         stroke-width="2"
+         id="circle29" />
+      <circle
+         r="108"
+         fill="#a8a8a8"
+         id="circle30" />
+      <circle
+         r="100"
+         fill="#8f8f8f"
+         stroke="#6a6a6a"
+         stroke-width="1.5"
+         id="circle31" />
+      <circle
+         r="86"
+         fill="#6a6a6a"
+         stroke="#3a3a3a"
+         stroke-width="2"
+         id="circle32" />
+      <circle
+         r="70"
+         fill="#1e1e1e"
+         stroke="#000000"
+         stroke-width="2"
+         id="circle33" />
+      <g
+         fill="#555555"
+         id="g38">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="11"
+           id="circle34" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="11"
+           id="circle35" />
+        <circle
+           cx="0"
+           cy="4"
+           r="11"
+           id="circle36" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="11"
+           id="circle37" />
+        <circle
+           cx="24"
+           cy="30"
+           r="11"
+           id="circle38" />
+      </g>
+      <g
+         fill="#1a1a1a"
+         id="g43">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="5"
+           id="circle39" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="5"
+           id="circle40" />
+        <circle
+           cx="0"
+           cy="4"
+           r="5"
+           id="circle41" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="5"
+           id="circle42" />
+        <circle
+           cx="24"
+           cy="30"
+           r="5"
+           id="circle43" />
+      </g>
+    </g>
+    <g
+       transform="translate(484,445) scale(0.377)"
+       id="g59">
+      <circle
+         r="122"
+         fill="#d0d0d0"
+         stroke="#5a5a5a"
+         stroke-width="2"
+         id="circle44" />
+      <circle
+         r="108"
+         fill="#a8a8a8"
+         id="circle45" />
+      <circle
+         r="100"
+         fill="#8f8f8f"
+         stroke="#6a6a6a"
+         stroke-width="1.5"
+         id="circle46" />
+      <circle
+         r="86"
+         fill="#6a6a6a"
+         stroke="#3a3a3a"
+         stroke-width="2"
+         id="circle47" />
+      <circle
+         r="70"
+         fill="#1e1e1e"
+         stroke="#000000"
+         stroke-width="2"
+         id="circle48" />
+      <g
+         fill="#555555"
+         id="g53">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="11"
+           id="circle49" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="11"
+           id="circle50" />
+        <circle
+           cx="0"
+           cy="4"
+           r="11"
+           id="circle51" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="11"
+           id="circle52" />
+        <circle
+           cx="24"
+           cy="30"
+           r="11"
+           id="circle53" />
+      </g>
+      <g
+         fill="#1a1a1a"
+         id="g58">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="5"
+           id="circle54" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="5"
+           id="circle55" />
+        <circle
+           cx="0"
+           cy="4"
+           r="5"
+           id="circle56" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="5"
+           id="circle57" />
+        <circle
+           cx="24"
+           cy="30"
+           r="5"
+           id="circle58" />
+      </g>
+    </g>
+  </g>
+  <!-- Numéros de port rangée 1 -->
+  <g
+     font-family="Arial, Helvetica, sans-serif"
+     font-weight="700"
+     font-size="22px"
+     fill="#7a3c06"
+     text-anchor="middle"
+     letter-spacing="3"
+     id="g60"
+     transform="translate(0,4)">
+    <text
+       x="302"
+       y="510"
+       id="text59">X21</text>
+    <text
+       x="484"
+       y="510"
+       id="text60">X22</text>
+  </g>
+  <!-- ============ CONNECTEUR CENTRAL GRIS MÂLE (Y=616) : Power IN ============ -->
+  <text
+     x="302"
+     y="560"
+     font-family="Arial, Helvetica, sans-serif"
+     font-weight="600"
+     font-size="16px"
+     fill="#7a3c06"
+     text-anchor="middle"
+     id="text61">Power IN</text>
+  <g
+     transform="translate(302,616) scale(0.377)"
+     id="g79">
+    <circle
+       r="122"
+       fill="#d0d0d0"
+       stroke="#5a5a5a"
+       stroke-width="2"
+       id="circle61" />
+    <circle
+       r="108"
+       fill="#a8a8a8"
+       id="circle62" />
+    <circle
+       r="100"
+       fill="#8f8f8f"
+       stroke="#6a6a6a"
+       stroke-width="1.5"
+       id="circle63" />
+    <circle
+       r="86"
+       fill="#6a6a6a"
+       stroke="#3a3a3a"
+       stroke-width="2"
+       id="circle64" />
+    <circle
+       r="70"
+       fill="#b0b0b0"
+       stroke="#4a4a4a"
+       stroke-width="2"
+       id="circle65" />
+    <g
+       id="g78">
+      <g
+         transform="translate(-24,-22)"
+         id="g68">
+        <circle
+           r="12"
+           fill="#c9a63c"
+           stroke="#6e5413"
+           stroke-width="1"
+           id="circle66" />
+        <circle
+           r="6"
+           fill="#f2d873"
+           id="circle67" />
+        <circle
+           r="2.5"
+           fill="#8a6d1e"
+           id="circle68" />
+      </g>
+      <g
+         transform="translate(24,-22)"
+         id="g71">
+        <circle
+           r="12"
+           fill="#c9a63c"
+           stroke="#6e5413"
+           stroke-width="1"
+           id="circle69" />
+        <circle
+           r="6"
+           fill="#f2d873"
+           id="circle70" />
+        <circle
+           r="2.5"
+           fill="#8a6d1e"
+           id="circle71" />
+      </g>
+      <g
+         transform="translate(-24,30)"
+         id="g74">
+        <circle
+           r="12"
+           fill="#c9a63c"
+           stroke="#6e5413"
+           stroke-width="1"
+           id="circle72" />
+        <circle
+           r="6"
+           fill="#f2d873"
+           id="circle73" />
+        <circle
+           r="2.5"
+           fill="#8a6d1e"
+           id="circle74" />
+      </g>
+      <g
+         transform="translate(24,30)"
+         id="g77">
+        <circle
+           r="12"
+           fill="#c9a63c"
+           stroke="#6e5413"
+           stroke-width="1"
+           id="circle75" />
+        <circle
+           r="6"
+           fill="#f2d873"
+           id="circle76" />
+        <circle
+           r="2.5"
+           fill="#8a6d1e"
+           id="circle77" />
+      </g>
+    </g>
+  </g>
+  <!-- Libellé US + port X31 -->
+  <text
+     x="378"
+     y="602"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="14px"
+     fill="#7a3c06"
+     id="text79">US</text>
+  <text
+     x="302"
+     y="686"
+     font-family="Arial, Helvetica, sans-serif"
+     font-weight="700"
+     font-size="22px"
+     fill="#7a3c06"
+     text-anchor="middle"
+     letter-spacing="3"
+     id="text80">X31</text>
+  <!-- ============ RANGÉE 2 (Y=765) : ORANGE ============ -->
+  <g
+     id="row2">
+    <g
+       transform="translate(302,765) scale(0.377)"
+       id="g95">
+      <circle
+         r="122"
+         fill="#d0d0d0"
+         stroke="#5a5a5a"
+         stroke-width="2"
+         id="circle80" />
+      <circle
+         r="108"
+         fill="#a8a8a8"
+         id="circle81" />
+      <circle
+         r="100"
+         fill="#8f8f8f"
+         stroke="#6a6a6a"
+         stroke-width="1.5"
+         id="circle82" />
+      <circle
+         r="86"
+         fill="#6a6a6a"
+         stroke="#3a3a3a"
+         stroke-width="2"
+         id="circle83" />
+      <circle
+         r="70"
+         fill="#f08a24"
+         stroke="#a65209"
+         stroke-width="2"
+         id="circle84" />
+      <g
+         fill="#8f8f8f"
+         id="g89">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="11"
+           id="circle85" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="11"
+           id="circle86" />
+        <circle
+           cx="0"
+           cy="4"
+           r="11"
+           id="circle87" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="11"
+           id="circle88" />
+        <circle
+           cx="24"
+           cy="30"
+           r="11"
+           id="circle89" />
+      </g>
+      <g
+         fill="#1a1a1a"
+         id="g94">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="5"
+           id="circle90" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="5"
+           id="circle91" />
+        <circle
+           cx="0"
+           cy="4"
+           r="5"
+           id="circle92" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="5"
+           id="circle93" />
+        <circle
+           cx="24"
+           cy="30"
+           r="5"
+           id="circle94" />
+      </g>
+    </g>
+    <g
+       transform="translate(484,765) scale(0.377)"
+       id="g110">
+      <circle
+         r="122"
+         fill="#d0d0d0"
+         stroke="#5a5a5a"
+         stroke-width="2"
+         id="circle95" />
+      <circle
+         r="108"
+         fill="#a8a8a8"
+         id="circle96" />
+      <circle
+         r="100"
+         fill="#8f8f8f"
+         stroke="#6a6a6a"
+         stroke-width="1.5"
+         id="circle97" />
+      <circle
+         r="86"
+         fill="#6a6a6a"
+         stroke="#3a3a3a"
+         stroke-width="2"
+         id="circle98" />
+      <circle
+         r="70"
+         fill="#f08a24"
+         stroke="#a65209"
+         stroke-width="2"
+         id="circle99" />
+      <g
+         fill="#8f8f8f"
+         id="g104">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="11"
+           id="circle100" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="11"
+           id="circle101" />
+        <circle
+           cx="0"
+           cy="4"
+           r="11"
+           id="circle102" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="11"
+           id="circle103" />
+        <circle
+           cx="24"
+           cy="30"
+           r="11"
+           id="circle104" />
+      </g>
+      <g
+         fill="#1a1a1a"
+         id="g109">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="5"
+           id="circle105" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="5"
+           id="circle106" />
+        <circle
+           cx="0"
+           cy="4"
+           r="5"
+           id="circle107" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="5"
+           id="circle108" />
+        <circle
+           cx="24"
+           cy="30"
+           r="5"
+           id="circle109" />
+      </g>
+    </g>
+  </g>
+  <!-- DI + ports rangée 2 -->
+  <text
+     x="385"
+     y="790"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="14px"
+     fill="#7a3c06"
+     id="text110">DI</text>
+  <g
+     font-family="Arial, Helvetica, sans-serif"
+     font-weight="700"
+     font-size="22px"
+     fill="#7a3c06"
+     text-anchor="middle"
+     letter-spacing="3"
+     id="g112"
+     transform="translate(0,8)">
+    <text
+       x="302"
+       y="830"
+       id="text111">X01</text>
+    <text
+       x="484"
+       y="830"
+       id="text112">X02</text>
+  </g>
+  <!-- ============ RANGÉE 3 (Y=915) : ORANGE ============ -->
+  <g
+     id="row3">
+    <g
+       transform="translate(302,915) scale(0.377)"
+       id="g127">
+      <circle
+         r="122"
+         fill="#d0d0d0"
+         stroke="#5a5a5a"
+         stroke-width="2"
+         id="circle112" />
+      <circle
+         r="108"
+         fill="#a8a8a8"
+         id="circle113" />
+      <circle
+         r="100"
+         fill="#8f8f8f"
+         stroke="#6a6a6a"
+         stroke-width="1.5"
+         id="circle114" />
+      <circle
+         r="86"
+         fill="#6a6a6a"
+         stroke="#3a3a3a"
+         stroke-width="2"
+         id="circle115" />
+      <circle
+         r="70"
+         fill="#f08a24"
+         stroke="#a65209"
+         stroke-width="2"
+         id="circle116" />
+      <g
+         fill="#8f8f8f"
+         id="g121">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="11"
+           id="circle117" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="11"
+           id="circle118" />
+        <circle
+           cx="0"
+           cy="4"
+           r="11"
+           id="circle119" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="11"
+           id="circle120" />
+        <circle
+           cx="24"
+           cy="30"
+           r="11"
+           id="circle121" />
+      </g>
+      <g
+         fill="#1a1a1a"
+         id="g126">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="5"
+           id="circle122" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="5"
+           id="circle123" />
+        <circle
+           cx="0"
+           cy="4"
+           r="5"
+           id="circle124" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="5"
+           id="circle125" />
+        <circle
+           cx="24"
+           cy="30"
+           r="5"
+           id="circle126" />
+      </g>
+    </g>
+    <g
+       transform="translate(484,915) scale(0.377)"
+       id="g142">
+      <circle
+         r="122"
+         fill="#d0d0d0"
+         stroke="#5a5a5a"
+         stroke-width="2"
+         id="circle127" />
+      <circle
+         r="108"
+         fill="#a8a8a8"
+         id="circle128" />
+      <circle
+         r="100"
+         fill="#8f8f8f"
+         stroke="#6a6a6a"
+         stroke-width="1.5"
+         id="circle129" />
+      <circle
+         r="86"
+         fill="#6a6a6a"
+         stroke="#3a3a3a"
+         stroke-width="2"
+         id="circle130" />
+      <circle
+         r="70"
+         fill="#f08a24"
+         stroke="#a65209"
+         stroke-width="2"
+         id="circle131" />
+      <g
+         fill="#8f8f8f"
+         id="g136">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="11"
+           id="circle132" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="11"
+           id="circle133" />
+        <circle
+           cx="0"
+           cy="4"
+           r="11"
+           id="circle134" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="11"
+           id="circle135" />
+        <circle
+           cx="24"
+           cy="30"
+           r="11"
+           id="circle136" />
+      </g>
+      <g
+         fill="#1a1a1a"
+         id="g141">
+        <circle
+           cx="-24"
+           cy="-22"
+           r="5"
+           id="circle137" />
+        <circle
+           cx="24"
+           cy="-22"
+           r="5"
+           id="circle138" />
+        <circle
+           cx="0"
+           cy="4"
+           r="5"
+           id="circle139" />
+        <circle
+           cx="-24"
+           cy="30"
+           r="5"
+           id="circle140" />
+        <circle
+           cx="24"
+           cy="30"
+           r="5"
+           id="circle141" />
+      </g>
+    </g>
+  </g>
+  <!-- DI + ports rangée 3 -->
+  <text
+     x="385"
+     y="940"
+     font-family="Arial, Helvetica, sans-serif"
+     font-size="14px"
+     fill="#7a3c06"
+     id="text142">DI</text>
+  <g
+     font-family="Arial, Helvetica, sans-serif"
+     font-weight="700"
+     font-size="22px"
+     fill="#7a3c06"
+     text-anchor="middle"
+     letter-spacing="3"
+     id="g144"
+     transform="translate(0,6)">
+    <text
+       x="302"
+       y="980"
+       id="text143">X03</text>
+    <text
+       x="484"
+       y="980"
+       id="text144">X04</text>
+  </g>
+  <!-- ============ EMBOUT FIXATION BAS ============ -->
+  <g
+     transform="translate(0,-2)"
+     id="g146">
+    <path
+       d="m 330,1050 c 0,-28 24,-52 58,-52 34,0 58,24 58,52 a 6,6 0 0 1 -6,6 H 336 a 6,6 0 0 1 -6,-6 z"
+       fill="#3a3a3c"
+       id="path144" />
+    <circle
+       cx="388"
+       cy="1023"
+       r="21"
+       fill="#8a8a8a"
+       id="circle144" />
+    <circle
+       cx="388"
+       cy="1023"
+       r="21"
+       fill="none"
+       stroke="#2a2a2a"
+       stroke-width="2"
+       id="circle145" />
+    <circle
+       cx="388"
+       cy="1023"
+       r="10"
+       fill="#3a3a3a"
+       id="circle146" />
+  </g>
+</svg>
