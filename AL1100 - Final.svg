@@ -17,15 +17,45 @@
     <circle cx="388" cy="283" r="10" fill="#3a3a3a"/>
   </g>
 
-  <!-- ============ LOGO ifm ============ -->
-  <text x="258" y="361" font-family="Arial, Helvetica, sans-serif"
-        font-weight="800" font-size="46px" fill="#ffffff" letter-spacing="-1">ifm</text>
+  <!-- ============ MARQUAGES HAUT ============ -->
+  <!-- Logo ifm (encadré) -->
+  <g transform="translate(470,300)">
+    <rect x="0" y="-26" width="66" height="42" rx="4" fill="none" stroke="#7a3c06" stroke-width="2"/>
+    <text x="8" y="8" font-family="Arial, Helvetica, sans-serif" font-weight="800"
+          font-size="30px" fill="#7a3c06" letter-spacing="-1">ifm</text>
+  </g>
+  <!-- Référence AL1100 -->
+  <text x="452" y="345" font-family="Arial, Helvetica, sans-serif" font-weight="800"
+        font-size="30px" fill="#7a3c06">AL1100</text>
+  <text x="452" y="362" font-family="Arial, Helvetica, sans-serif"
+        font-size="12px" fill="#7a3c06">Designed by ifm</text>
+
+  <!-- IO-Link -->
+  <g transform="translate(258,320)">
+    <circle cx="6" cy="-4" r="7" fill="#7a3c06"/>
+    <text x="18" y="0" font-family="Arial, Helvetica, sans-serif" font-weight="700"
+          font-size="18px" fill="#7a3c06">IO-Link</text>
+  </g>
+
+  <!-- Profinet (au-dessus de X21 / X22) -->
+  <text x="258" y="410" font-family="Arial, Helvetica, sans-serif" font-weight="600"
+        font-size="16px" fill="#7a3c06">Profinet</text>
+  <text x="452" y="410" font-family="Arial, Helvetica, sans-serif" font-weight="600"
+        font-size="16px" fill="#7a3c06">Profinet</text>
 
   <!-- ============ LED de statut ============ -->
   <g>
-    <circle cx="356" cy="349" r="9" fill="#c8c8c8" stroke="#7a7a7a" stroke-width="1"/>
-    <circle cx="390" cy="349" r="9" fill="#c8c8c8" stroke="#7a7a7a" stroke-width="1"/>
-    <circle cx="424" cy="349" r="9" fill="#c8c8c8" stroke="#7a7a7a" stroke-width="1"/>
+    <circle cx="356" cy="360" r="9" fill="#c8c8c8" stroke="#7a7a7a" stroke-width="1"/>
+    <circle cx="390" cy="360" r="9" fill="#c8c8c8" stroke="#7a7a7a" stroke-width="1"/>
+    <circle cx="424" cy="360" r="9" fill="#c8c8c8" stroke="#7a7a7a" stroke-width="1"/>
+  </g>
+  <!-- Libellés LED -->
+  <g font-family="Arial, Helvetica, sans-serif" font-size="12px" fill="#7a3c06" text-anchor="middle">
+    <text x="356" y="385">RDY</text>
+    <text x="390" y="385">BF</text>
+    <text x="424" y="385">BF</text>
+    <text x="390" y="440">LNK</text>
+    <text x="390" y="490">ACT</text>
   </g>
 
   <!-- ============ MARQUES ") (" ============ -->
@@ -39,7 +69,7 @@
     <g transform="translate(428.05,915) scale(-1,1)"><path d="m 0,-30 q 5.6,12 6.72,24"/><path d="M 6.72,6 Q 5.6,18 0,30"/></g>
   </g>
 
-  <!-- ============ RANGÉE 1 (Y=445) : NOIRS ============ -->
+  <!-- ============ RANGÉE 1 (Y=445) : NOIRS (Profinet) ============ -->
   <g id="row1">
     <g transform="translate(302,445) scale(0.377)">
       <circle r="122" fill="#d0d0d0" stroke="#5a5a5a" stroke-width="2"/>
@@ -76,15 +106,22 @@
       </g>
     </g>
   </g>
+  <!-- Numéros de port rangée 1 -->
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22px"
+     fill="#7a3c06" text-anchor="middle" letter-spacing="3">
+    <text x="302" y="510">X21</text>
+    <text x="484" y="510">X22</text>
+  </g>
 
-  <!-- ============ CONNECTEUR CENTRAL GRIS MÂLE (Y=616) ============ -->
+  <!-- ============ CONNECTEUR CENTRAL GRIS MÂLE (Y=616) : Power IN ============ -->
+  <text x="302" y="560" font-family="Arial, Helvetica, sans-serif" font-weight="600"
+        font-size="16px" fill="#7a3c06" text-anchor="middle">Power IN</text>
   <g transform="translate(302,616) scale(0.377)">
     <circle r="122" fill="#d0d0d0" stroke="#5a5a5a" stroke-width="2"/>
     <circle r="108" fill="#a8a8a8"/>
     <circle r="100" fill="#8f8f8f" stroke="#6a6a6a" stroke-width="1.5"/>
     <circle r="86"  fill="#6a6a6a" stroke="#3a3a3a" stroke-width="2"/>
     <circle r="70"  fill="#b0b0b0" stroke="#4a4a4a" stroke-width="2"/>
-    <!-- 4 broches laiton -->
     <g>
       <g transform="translate(-24,-22)"><circle r="12" fill="#c9a63c" stroke="#6e5413" stroke-width="1"/><circle r="6" fill="#f2d873"/><circle r="2.5" fill="#8a6d1e"/></g>
       <g transform="translate(24,-22)"><circle r="12" fill="#c9a63c" stroke="#6e5413" stroke-width="1"/><circle r="6" fill="#f2d873"/><circle r="2.5" fill="#8a6d1e"/></g>
@@ -92,6 +129,10 @@
       <g transform="translate(24,30)"><circle r="12" fill="#c9a63c" stroke="#6e5413" stroke-width="1"/><circle r="6" fill="#f2d873"/><circle r="2.5" fill="#8a6d1e"/></g>
     </g>
   </g>
+  <!-- Libellé US + port X31 -->
+  <text x="420" y="622" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#7a3c06">US</text>
+  <text x="302" y="682" font-family="Arial, Helvetica, sans-serif" font-weight="700"
+        font-size="22px" fill="#7a3c06" text-anchor="middle" letter-spacing="3">X31</text>
 
   <!-- ============ RANGÉE 2 (Y=765) : ORANGE ============ -->
   <g id="row2">
@@ -130,6 +171,13 @@
       </g>
     </g>
   </g>
+  <!-- DI + ports rangée 2 -->
+  <text x="415" y="772" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#7a3c06">DI</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22px"
+     fill="#7a3c06" text-anchor="middle" letter-spacing="3">
+    <text x="302" y="830">X01</text>
+    <text x="484" y="830">X02</text>
+  </g>
 
   <!-- ============ RANGÉE 3 (Y=915) : ORANGE ============ -->
   <g id="row3">
@@ -167,6 +215,13 @@
         <circle cx="-24" cy="30" r="5"/><circle cx="24" cy="30" r="5"/>
       </g>
     </g>
+  </g>
+  <!-- DI + ports rangée 3 -->
+  <text x="415" y="922" font-family="Arial, Helvetica, sans-serif" font-size="14px" fill="#7a3c06">DI</text>
+  <g font-family="Arial, Helvetica, sans-serif" font-weight="700" font-size="22px"
+     fill="#7a3c06" text-anchor="middle" letter-spacing="3">
+    <text x="302" y="980">X03</text>
+    <text x="484" y="980">X04</text>
   </g>
 
   <!-- ============ EMBOUT FIXATION BAS ============ -->
