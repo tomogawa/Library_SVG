@@ -1,0 +1,268 @@
+  <!-- ============ FOND ============ -->
+  <rect width="800" height="1290" fill="url(#checker)" id="rect45" />
+
+  <!-- ============ CORPS DU MODULE ============ -->
+  <g filter="url(#softShadow)" id="g48" transform="translate(0,-2.1337257)">
+    <rect x="232" y="245" width="322" height="810" rx="46" ry="46"
+          id="rect46" style="fill:url(#bodyGrad)" />
+    <rect x="232" y="245" width="322" height="810" rx="46" ry="46"
+          id="rect47" style="fill:url(#bodyEdge)" />
+    <rect x="232" y="245" width="322" height="810" rx="46" ry="46"
+          fill="none" stroke="#b95a0c" stroke-opacity="0.4" stroke-width="1.5" id="rect48" />
+  </g>
+
+  <!-- ============ EMBOUT FIXATION HAUT ============ -->
+  <g id="g51" transform="translate(0,-8)">
+    <path d="m 336,250 h 104 a 6,6 0 0 1 6,6 c 0,28 -24,52 -58,52 -34,0 -58,-24 -58,-52 a 6,6 0 0 1 6,-6 z"
+          id="path48" style="fill:url(#radialGradient73)" />
+    <path d="m 336,250 h 104 a 6,6 0 0 1 6,6 c 0,2 -2,4 -4,4 H 334 a 4,4 0 0 1 -4,-4 6,6 0 0 1 6,-6 z"
+          fill="#ffffff" fill-opacity="0.12" id="path49" />
+    <circle cx="388" cy="283" r="21" id="circle49" style="fill:url(#radialGradient74)" />
+    <circle cx="388" cy="283" r="21" fill="none" stroke="#2a2a2a" stroke-width="2" id="circle50" />
+    <circle cx="388" cy="283" r="10" fill="#3a3a3a" id="circle51" />
+  </g>
+
+  <!-- ============ LOGO ifm ============ -->
+  <text x="258" y="361" font-family="Arial, Helvetica, sans-serif"
+        font-weight="800" font-size="46px" fill="#ffffff" letter-spacing="-1" id="text51">ifm</text>
+
+  <!-- ============ LED de statut (3 points) ============ -->
+  <g id="g54">
+    <circle cx="356" cy="349" r="9" fill="url(#ledGrad)" stroke="#7a7a7a" stroke-width="1" id="circle52" />
+    <circle cx="390" cy="349" r="9" fill="url(#ledGrad)" stroke="#7a7a7a" stroke-width="1" id="circle53" />
+    <circle cx="424" cy="349" r="9" fill="url(#ledGrad)" stroke="#7a7a7a" stroke-width="1" id="circle54" />
+  </g>
+
+  <!-- ============ MARQUES (") "(" ) regroupées ============ -->
+  <g id="marks">
+    <!-- rangée 1 -->
+    <g transform="translate(357.95,445)" id="mark_r1L">
+      <path d="m 0,-30 q 5.6,12 6.72,24" fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm1a" />
+      <path d="M 6.72,6 Q 5.6,18 0,30"   fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm1b" />
+    </g>
+    <g transform="translate(428.05,445) scale(-1,1)" id="mark_r1R">
+      <path d="m 0,-30 q 5.6,12 6.72,24" fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm2a" />
+      <path d="M 6.72,6 Q 5.6,18 0,30"   fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm2b" />
+    </g>
+    <!-- rangée centrale (au-dessus du connecteur gris) -->
+    <g transform="translate(357.95,616)" id="mark_cL">
+      <path d="m 0,-30 q 5.6,12 6.72,24" fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm3a" />
+      <path d="M 6.72,6 Q 5.6,18 0,30"   fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm3b" />
+    </g>
+    <!-- rangée 2 -->
+    <g transform="translate(357.95,765)" id="mark_r2L">
+      <path d="m 0,-30 q 5.6,12 6.72,24" fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm4a" />
+      <path d="M 6.72,6 Q 5.6,18 0,30"   fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm4b" />
+    </g>
+    <g transform="translate(428.05,765) scale(-1,1)" id="mark_r2R">
+      <path d="m 0,-30 q 5.6,12 6.72,24" fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm5a" />
+      <path d="M 6.72,6 Q 5.6,18 0,30"   fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm5b" />
+    </g>
+    <!-- rangée 3 -->
+    <g transform="translate(357.95,915)" id="mark_r3L">
+      <path d="m 0,-30 q 5.6,12 6.72,24" fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm6a" />
+      <path d="M 6.72,6 Q 5.6,18 0,30"   fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm6b" />
+    </g>
+    <g transform="translate(428.05,915) scale(-1,1)" id="mark_r3R">
+      <path d="m 0,-30 q 5.6,12 6.72,24" fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm7a" />
+      <path d="M 6.72,6 Q 5.6,18 0,30"   fill="none" stroke="#2b2b2b" stroke-width="7" stroke-linecap="round" id="pm7b" />
+    </g>
+  </g>
+
+  <!-- ============ RANGÉE 1 (Y=445) : noir gauche + noir droite ============ -->
+  <g id="row1">
+    <!-- noir gauche -->
+    <g transform="matrix(0.377,0,0,0.377,302,445)" id="g46b-2">
+      <g id="use45b-4"><g id="g1b-0">
+        <circle r="122" cx="0" cy="0" stroke="#5a5a5a" stroke-width="2" id="circle100b-5" style="fill:url(#radialGradient117-6-8)" />
+        <circle r="118" cx="0" cy="0" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5" id="circle101b-4" />
+        <circle r="100" cx="0" cy="0" stroke="#6a6a6a" stroke-width="1.5" id="circle102b-0" style="fill:url(#radialGradient118-2-2)" />
+        <circle r="86" cx="0" cy="0" id="circle103b-0" style="fill:url(#radialGradient119-6-4)" />
+        <circle r="86" cx="0" cy="0" fill="none" stroke="#3a3a3a" stroke-width="2" id="circle104b-3" />
+        <g id="g116b-6">
+          <circle r="70" cx="0" cy="0" stroke="#000000" stroke-width="2" id="circle105b-6" style="fill:url(#radialGradient120b-8)" />
+          <g id="g115b-9">
+            <circle cx="-24" cy="-22" r="11" id="circle106b-1" style="fill:url(#radialGradient121-3-4)" />
+            <circle cx="-24" cy="-22" r="5" fill="#1a1a1a" id="circle107b-6" />
+            <circle cx="24" cy="-22" r="11" id="circle108b-2" style="fill:url(#radialGradient122-7-8)" />
+            <circle cx="24" cy="-22" r="5" fill="#1a1a1a" id="circle109b-1" />
+            <circle cx="0" cy="4" r="11" id="circle110b-1" style="fill:url(#radialGradient123-0-1)" />
+            <circle cx="0" cy="4" r="5" fill="#1a1a1a" id="circle111b-0" />
+            <circle cx="-24" cy="30" r="11" id="circle112b-6" style="fill:url(#radialGradient124-4-3)" />
+            <circle cx="-24" cy="30" r="5" fill="#1a1a1a" id="circle113b-5" />
+            <circle cx="24" cy="30" r="11" id="circle114b-7" style="fill:url(#radialGradient125-6-9)" />
+            <circle cx="24" cy="30" r="5" fill="#1a1a1a" id="circle115b-8" />
+          </g>
+        </g>
+      </g></g>
+    </g>
+    <!-- noir droite -->
+    <g transform="matrix(0.377,0,0,0.377,484,445)" id="g46b">
+      <g id="use45b"><g id="g1b">
+        <circle r="122" cx="0" cy="0" stroke="#5a5a5a" stroke-width="2" id="circle100b" style="fill:url(#radialGradient117-6)" />
+        <circle r="118" cx="0" cy="0" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5" id="circle101b" />
+        <circle r="100" cx="0" cy="0" stroke="#6a6a6a" stroke-width="1.5" id="circle102b" style="fill:url(#radialGradient118-2)" />
+        <circle r="86" cx="0" cy="0" id="circle103b" style="fill:url(#radialGradient119-6)" />
+        <circle r="86" cx="0" cy="0" fill="none" stroke="#3a3a3a" stroke-width="2" id="circle104b" />
+        <g id="g116b">
+          <circle r="70" cx="0" cy="0" stroke="#000000" stroke-width="2" id="circle105b" style="fill:url(#radialGradient120b)" />
+          <g id="g115b">
+            <circle cx="-24" cy="-22" r="11" id="circle106b" style="fill:url(#radialGradient121-3)" />
+            <circle cx="-24" cy="-22" r="5" fill="#1a1a1a" id="circle107b" />
+            <circle cx="24" cy="-22" r="11" id="circle108b" style="fill:url(#radialGradient122-7)" />
+            <circle cx="24" cy="-22" r="5" fill="#1a1a1a" id="circle109b" />
+            <circle cx="0" cy="4" r="11" id="circle110b" style="fill:url(#radialGradient123-0)" />
+            <circle cx="0" cy="4" r="5" fill="#1a1a1a" id="circle111b" />
+            <circle cx="-24" cy="30" r="11" id="circle112b" style="fill:url(#radialGradient124-4)" />
+            <circle cx="-24" cy="30" r="5" fill="#1a1a1a" id="circle113b" />
+            <circle cx="24" cy="30" r="11" id="circle114b" style="fill:url(#radialGradient125-6)" />
+            <circle cx="24" cy="30" r="5" fill="#1a1a1a" id="circle115b" />
+          </g>
+        </g>
+      </g></g>
+    </g>
+  </g>
+
+  <!-- ============ CONNECTEUR CENTRAL GRIS MÂLE (Y=616) ============ -->
+  <g id="g86" transform="translate(-1.371,-7.371)">
+    <circle r="45.993999" cx="303.371" cy="623.37097" stroke="#5a5a5a" stroke-width="0.754" id="circle21" style="fill:url(#radialGradient51)" />
+    <circle r="44.486" cx="303.371" cy="623.37097" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="0.5655" id="circle22" />
+    <circle r="37.700001" cx="303.371" cy="623.37097" stroke="#6a6a6a" stroke-width="0.5655" id="circle23" style="fill:url(#radialGradient52)" />
+    <circle r="32.422001" cx="303.371" cy="623.37097" id="circle24" style="fill:url(#socket-0);stroke-width:0.377" />
+    <circle r="32.422001" cx="303.371" cy="623.37097" fill="none" stroke="#3a3a3a" stroke-width="0.754" id="circle25" />
+    <circle r="26.389999" cx="303.371" cy="623.37097" stroke="#4a4a4a" stroke-width="0.754" id="circle26" style="fill:url(#insertGrey)" />
+    <g id="use26" transform="matrix(0.377,0,0,0.377,294.323,615.077)">
+      <ellipse cx="0" cy="3" rx="13" ry="12" fill="#000000" fill-opacity="0.35" id="ellipse74" />
+      <circle r="12" stroke="#6e5413" stroke-width="1" id="circle74" cx="0" cy="0" style="fill:url(#radialGradient76)" />
+      <circle r="7" id="circle75" cx="0" cy="0" style="fill:url(#radialGradient77)" />
+      <circle r="2.5" fill="#8a6d1e" id="circle76" cx="0" cy="0" />
+      <ellipse cx="-3" cy="-4" rx="3.5" ry="2" fill="#ffffff" fill-opacity="0.7" id="ellipse76" />
+    </g>
+    <g id="use27" transform="matrix(0.377,0,0,0.377,312.419,615.077)">
+      <ellipse cx="0" cy="3" rx="13" ry="12" fill="#000000" fill-opacity="0.35" id="ellipse77" />
+      <circle r="12" stroke="#6e5413" stroke-width="1" id="circle77" cx="0" cy="0" style="fill:url(#radialGradient79)" />
+      <circle r="7" id="circle78" cx="0" cy="0" style="fill:url(#radialGradient80)" />
+      <circle r="2.5" fill="#8a6d1e" id="circle79" cx="0" cy="0" />
+      <ellipse cx="-3" cy="-4" rx="3.5" ry="2" fill="#ffffff" fill-opacity="0.7" id="ellipse79" />
+    </g>
+    <g id="use29" transform="matrix(0.377,0,0,0.377,294.323,634.681)">
+      <ellipse cx="0" cy="3" rx="13" ry="12" fill="#000000" fill-opacity="0.35" id="ellipse80" />
+      <circle r="12" stroke="#6e5413" stroke-width="1" id="circle80" cx="0" cy="0" style="fill:url(#radialGradient82)" />
+      <circle r="7" id="circle81" cx="0" cy="0" style="fill:url(#radialGradient83)" />
+      <circle r="2.5" fill="#8a6d1e" id="circle82" cx="0" cy="0" />
+      <ellipse cx="-3" cy="-4" rx="3.5" ry="2" fill="#ffffff" fill-opacity="0.7" id="ellipse82" />
+    </g>
+    <g id="use30" transform="matrix(0.377,0,0,0.377,312.419,634.681)">
+      <ellipse cx="0" cy="3" rx="13" ry="12" fill="#000000" fill-opacity="0.35" id="ellipse83" />
+      <circle r="12" stroke="#6e5413" stroke-width="1" id="circle83" cx="0" cy="0" style="fill:url(#radialGradient85)" />
+      <circle r="7" id="circle84" cx="0" cy="0" style="fill:url(#radialGradient86)" />
+      <circle r="2.5" fill="#8a6d1e" id="circle85" cx="0" cy="0" />
+      <ellipse cx="-3" cy="-4" rx="3.5" ry="2" fill="#ffffff" fill-opacity="0.7" id="ellipse85" />
+    </g>
+  </g>
+
+  <!-- ============ RANGÉE 2 (Y=765) : orange gauche + orange droite ============ -->
+  <g id="row2">
+    <g id="g1" transform="matrix(0.377,0,0,0.377,302,765)">
+      <circle r="122" fill="url(#metalRing)" stroke="#5a5a5a" stroke-width="2" id="circle100" cx="0" cy="0" style="fill:url(#radialGradient117)" />
+      <circle r="118" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5" id="circle101" cx="0" cy="0" />
+      <circle r="100" stroke="#6a6a6a" stroke-width="1.5" id="circle102" cx="0" cy="0" style="fill:url(#radialGradient118)" />
+      <circle r="86" id="circle103" cx="0" cy="0" style="fill:url(#radialGradient119)" />
+      <circle r="86" fill="none" stroke="#3a3a3a" stroke-width="2" id="circle104" cx="0" cy="0" />
+      <g id="g116">
+        <circle r="70" stroke="#a65209" stroke-width="2" id="circle105" cx="0" cy="0" style="fill:url(#radialGradient120)" />
+        <g id="g115">
+          <circle cx="-24" cy="-22" r="11" id="circle106" style="fill:url(#radialGradient121)" />
+          <circle cx="-24" cy="-22" r="5" fill="#1a1a1a" id="circle107" />
+          <circle cx="24" cy="-22" r="11" id="circle108" style="fill:url(#radialGradient122)" />
+          <circle cx="24" cy="-22" r="5" fill="#1a1a1a" id="circle109" />
+          <circle cx="0" cy="4" r="11" id="circle110" style="fill:url(#radialGradient123)" />
+          <circle cx="0" cy="4" r="5" fill="#1a1a1a" id="circle111" />
+          <circle cx="-24" cy="30" r="11" id="circle112" style="fill:url(#radialGradient124)" />
+          <circle cx="-24" cy="30" r="5" fill="#1a1a1a" id="circle113" />
+          <circle cx="24" cy="30" r="11" id="circle114" style="fill:url(#radialGradient125)" />
+          <circle cx="24" cy="30" r="5" fill="#1a1a1a" id="circle115" />
+        </g>
+      </g>
+    </g>
+    <g id="g1-4-8-2" transform="matrix(0.377,0,0,0.377,484,765)">
+      <circle r="122" stroke="#5a5a5a" stroke-width="2" id="circle100-5-4-8" cx="0" cy="0" style="fill:url(#radialGradient117-7-1-4)" />
+      <circle r="118" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5" id="circle101-3-6-0" cx="0" cy="0" />
+      <circle r="100" stroke="#6a6a6a" stroke-width="1.5" id="circle102-9-4-7" cx="0" cy="0" style="fill:url(#radialGradient118-9-7-3)" />
+      <circle r="86" id="circle103-2-6-9" cx="0" cy="0" style="fill:url(#radialGradient119-4-2-7)" />
+      <circle r="86" fill="none" stroke="#3a3a3a" stroke-width="2" id="circle104-7-7-0" cx="0" cy="0" />
+      <g id="g116-4-2-9">
+        <circle r="70" stroke="#a65209" stroke-width="2" id="circle105-0-3-6" cx="0" cy="0" style="fill:url(#radialGradient120-8-1-4)" />
+        <g id="g115-1-4-8">
+          <circle cx="-24" cy="-22" r="11" id="circle106-7-7-9" style="fill:url(#radialGradient121-8-4-0)" />
+          <circle cx="-24" cy="-22" r="5" fill="#1a1a1a" id="circle107-6-9-2" />
+          <circle cx="24" cy="-22" r="11" id="circle108-3-3-2" style="fill:url(#radialGradient122-2-4-8)" />
+          <circle cx="24" cy="-22" r="5" fill="#1a1a1a" id="circle109-2-8-6" />
+          <circle cx="0" cy="4" r="11" id="circle110-6-8-0" style="fill:url(#radialGradient123-2-2-8)" />
+          <circle cx="0" cy="4" r="5" fill="#1a1a1a" id="circle111-1-2-2" />
+          <circle cx="-24" cy="30" r="11" id="circle112-0-7-9" style="fill:url(#radialGradient124-7-2-8)" />
+          <circle cx="-24" cy="30" r="5" fill="#1a1a1a" id="circle113-6-0-1" />
+          <circle cx="24" cy="30" r="11" id="circle114-9-1-9" style="fill:url(#radialGradient125-1-9-8)" />
+          <circle cx="24" cy="30" r="5" fill="#1a1a1a" id="circle115-3-6-1" />
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ============ RANGÉE 3 (Y=915) : orange gauche + orange droite ============ -->
+  <g id="row3">
+    <g id="g1-4" transform="matrix(0.377,0,0,0.377,302,915)">
+      <circle r="122" stroke="#5a5a5a" stroke-width="2" id="circle100-5" cx="0" cy="0" style="fill:url(#radialGradient117-7)" />
+      <circle r="118" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5" id="circle101-3" cx="0" cy="0" />
+      <circle r="100" stroke="#6a6a6a" stroke-width="1.5" id="circle102-9" cx="0" cy="0" style="fill:url(#radialGradient118-9)" />
+      <circle r="86" id="circle103-2" cx="0" cy="0" style="fill:url(#radialGradient119-4)" />
+      <circle r="86" fill="none" stroke="#3a3a3a" stroke-width="2" id="circle104-7" cx="0" cy="0" />
+      <g id="g116-4">
+        <circle r="70" stroke="#a65209" stroke-width="2" id="circle105-0" cx="0" cy="0" style="fill:url(#radialGradient120-8)" />
+        <g id="g115-1">
+          <circle cx="-24" cy="-22" r="11" id="circle106-7" style="fill:url(#radialGradient121-8)" />
+          <circle cx="-24" cy="-22" r="5" fill="#1a1a1a" id="circle107-6" />
+          <circle cx="24" cy="-22" r="11" id="circle108-3" style="fill:url(#radialGradient122-2)" />
+          <circle cx="24" cy="-22" r="5" fill="#1a1a1a" id="circle109-2" />
+          <circle cx="0" cy="4" r="11" id="circle110-6" style="fill:url(#radialGradient123-2)" />
+          <circle cx="0" cy="4" r="5" fill="#1a1a1a" id="circle111-1" />
+          <circle cx="-24" cy="30" r="11" id="circle112-0" style="fill:url(#radialGradient124-7)" />
+          <circle cx="-24" cy="30" r="5" fill="#1a1a1a" id="circle113-6" />
+          <circle cx="24" cy="30" r="11" id="circle114-9" style="fill:url(#radialGradient125-1)" />
+          <circle cx="24" cy="30" r="5" fill="#1a1a1a" id="circle115-3" />
+        </g>
+      </g>
+    </g>
+    <g id="g1-4-8" transform="matrix(0.377,0,0,0.377,484,915)">
+      <circle r="122" stroke="#5a5a5a" stroke-width="2" id="circle100-5-4" cx="0" cy="0" style="fill:url(#radialGradient117-7-1)" />
+      <circle r="118" fill="none" stroke="#ffffff" stroke-opacity="0.55" stroke-width="1.5" id="circle101-3-6" cx="0" cy="0" />
+      <circle r="100" stroke="#6a6a6a" stroke-width="1.5" id="circle102-9-4" cx="0" cy="0" style="fill:url(#radialGradient118-9-7)" />
+      <circle r="86" id="circle103-2-6" cx="0" cy="0" style="fill:url(#radialGradient119-4-2)" />
+      <circle r="86" fill="none" stroke="#3a3a3a" stroke-width="2" id="circle104-7-7" cx="0" cy="0" />
+      <g id="g116-4-2">
+        <circle r="70" stroke="#a65209" stroke-width="2" id="circle105-0-3" cx="0" cy="0" style="fill:url(#radialGradient120-8-1)" />
+        <g id="g115-1-4">
+          <circle cx="-24" cy="-22" r="11" id="circle106-7-7" style="fill:url(#radialGradient121-8-4)" />
+          <circle cx="-24" cy="-22" r="5" fill="#1a1a1a" id="circle107-6-9" />
+          <circle cx="24" cy="-22" r="11" id="circle108-3-3" style="fill:url(#radialGradient122-2-4)" />
+          <circle cx="24" cy="-22" r="5" fill="#1a1a1a" id="circle109-2-8" />
+          <circle cx="0" cy="4" r="11" id="circle110-6-8" style="fill:url(#radialGradient123-2-2)" />
+          <circle cx="0" cy="4" r="5" fill="#1a1a1a" id="circle111-1-2" />
+          <circle cx="-24" cy="30" r="11" id="circle112-0-7" style="fill:url(#radialGradient124-7-2)" />
+          <circle cx="-24" cy="30" r="5" fill="#1a1a1a" id="circle113-6-0" />
+          <circle cx="24" cy="30" r="11" id="circle114-9-1" style="fill:url(#radialGradient125-1-9)" />
+          <circle cx="24" cy="30" r="5" fill="#1a1a1a" id="circle115-3-6" />
+        </g>
+      </g>
+    </g>
+  </g>
+
+  <!-- ============ EMBOUT FIXATION BAS ============ -->
+  <g id="g70" transform="translate(0,-2)">
+    <path d="m 330,1050 c 0,-28 24,-52 58,-52 34,0 58,24 58,52 a 6,6 0 0 1 -6,6 H 336 a 6,6 0 0 1 -6,-6 z"
+          id="path68" style="fill:url(#radialGradient71)" />
+    <circle cx="388" cy="1023" r="21" id="circle68" style="fill:url(#radialGradient72)" />
+    <circle cx="388" cy="1023" r="21" fill="none" stroke="#2a2a2a" stroke-width="2" id="circle69" />
+    <circle cx="388" cy="1023" r="10" fill="#3a3a3a" id="circle70" />
+  </g>
+</svg>
